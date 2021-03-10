@@ -1,1 +1,1 @@
-worker: python basma.py
+worker: python script.py
