@@ -1,1 +1,1 @@
-worker: python basma.py
+worker: mkdir tmp && python basma.py
